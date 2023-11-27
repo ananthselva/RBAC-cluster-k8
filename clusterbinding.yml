@@ -4,7 +4,7 @@ metadata:
   name: read-only-cluster-role-binding
 subjects:
 - kind: User
-  name: arn:aws:iam::752207629575:user/kavin
+  name: arn:aws:iam::752207629575:user/Devops_ananth
   apiGroup: rbac.authorization.k8s.io
 roleRef:
   kind: ClusterRole
